@@ -50,7 +50,7 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 
 # Software Engineering
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Project Description | Tools |
 |---|---|---|
 | |  |  |
 |  |  |  |
@@ -59,7 +59,7 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 
 # SQL
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Area | Project Description |
 |---|---|---|
 |  |   |  |
 |  |  |  |
