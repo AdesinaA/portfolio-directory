@@ -5,7 +5,6 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 ## 📚 Table of Contents
 - [Gen AI](#generative-ai)
 - [Data Science(ML)](#data-science--machine-learning-)
-- [Python](#python)
 - [Data Analysis](#data-analysis)
 - [Data Engineering](#data-engineering)
 - [Software Engineering](#software-engineering)
@@ -21,43 +20,30 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 
 # Data Science ( Machine Learning )
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| |  |  | 
-| |  |  
-|  |  |  |  
-
-***
-
-# Python
-
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-|  |  |  | 
-|  |  |  |  |   
-|  |  |  |  |   
-|  |  |  |  |   
-|  |  |  |  |
-|  |  |  | |
-| |  |  |  |
+| Project Link | Area | Libraries & Tools | Project Description
+|---|---|---| ---|
+|🏠 [Home Price Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/home%20price%20prediction)|Regression|Python, Pandas, Matplotlib, DecisonTree, Random Forest, Gradient Boost & Neural Networks| I built a prediction model to help hosts know the prices of homes inorder to make profit.|
+|🥇 [Promotion Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/Promotion%20Prediction)|Classification|Python, Pandas, Matplotlib & Catboost|I built a machine learning model to study the pattern of promotion on Abdullahi's company.|
+|💳 [Credit Card Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/Credit%20Card%20Default%20Loan%20Prediction) |Classification|Python, Pandas, Matplotlib, Catboost & Lightgbm|I built a machine learning model to determine whether a loan is good or bad.|
 
 ***
 
 # Data Analysis
 
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-|  |  |  |
-|  |  |  |
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+|🫀 [Fitness Tracking Analysis](https://github.com/AdesinaA/data-analysis/tree/main/fitness%20tracking%20analysis)|EDA|Discovered insights into whether users are using an app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt.|Pandas, Matplotlib & Seaborn | 
+|🏢 [Sales Store Analysis](https://github.com/AdesinaA/data-analysis/tree/main/Sales%20store%20analysis)|EDA|Analysis of sales data to find out highest revenue and profit product categories and top customer segments.|Pandas, Matplotlib & Seaborn|   
+|🍹 [Liquor Analysis](https://github.com/AdesinaA/data-analysis/tree/main/Sales%20store%20analysis)|Data Wrangling & EDA|A study on red and white wine samples and understanding whether certain types of wine and their qualities (alcohol level, sugar content and acidity level) are associated with higher wine quality.|Pandas, Matplotlib|     
 
 
 ***
 
 # Data Engineering
 
-| Project Link | Project Description | Dashboard Link |
+| Project Link | Tools | Project Description|
 |---|---|---|
-|  |  |
+|🚖 [Taxi(Uber)](https://github.com/AdesinaA/data-engineering/tree/main/Taxi%20(uber)%20project)|Python, MageAI, AWS S3, AWS EC2, AWS Redshift|Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, deploying with AWS Redshift and orchestrating the pipeline on Mage AI. |
 |  |  | |
 
 ***
