@@ -15,7 +15,7 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-|  |  |  |  |
+|📖 [Chatdpt](https://github.com/AdesinaA/gen-ai/tree/main/chatdpt)  |  |  |  |
 |  |  | |
 
 ***
