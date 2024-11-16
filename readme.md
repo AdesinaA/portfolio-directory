@@ -53,15 +53,5 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 
 | Project Link | Project Description | Tools |
 |---|---|---|
-| |  |  |
-|  |  |  |
-
-***
-
-# SQL
-
-| Project Link | Area | Project Description |
-|---|---|---|
-|  |   |  |
-|  |  |  |
+|🏥 [Clinic Record Sofware](https://github.com/AdesinaA/clinic-record-software)|Built a clinic record software for IITA clinic| C#, SQL & WinForm|
 
