@@ -1,4 +1,3 @@
-
 # 🗺 Adesinaa's Portfolio
 
 Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I document a summary of my projects in the fields below. 
