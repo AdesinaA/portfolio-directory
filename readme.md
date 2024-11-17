@@ -8,7 +8,6 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 - [Data Analysis](#data-analysis)
 - [Data Engineering](#data-engineering)
 - [Software Engineering](#software-engineering)
-- [SQL](#sql)
 
 # Generative AI
 
