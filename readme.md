@@ -44,7 +44,6 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 | Project Link | Tools | Project Description|
 |---|---|---|
 |🚖 [Taxi(Uber)](https://github.com/AdesinaA/data-engineering/tree/main/Taxi%20(uber)%20project)|Python, MageAI, AWS S3, AWS EC2, AWS Redshift|Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, deploying with AWS Redshift and orchestrating the pipeline on Mage AI. |
-|  |  | |
 
 ***
 
