@@ -14,7 +14,7 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 |📖 [ChatDpt](https://github.com/AdesinaA/gen-ai/tree/main/chatdpt) |August 2023|Python, [Anthropic model](https://www.anthropic.com/) , AWS Bedrock & Streamlit| Think of ChatGPT but generating response in different languages. ChatDPT is a chatbot built with AWS bedrock, python, Anthropic model and streamlit. This was built mainly for AWS workshop i was invited to as a speaker to showcase how to : **[Explore the Power of Generative AI in the Cloud Workshop](https://docs.google.com/presentation/d/1Asin7_LBUfcJT_kS_AyXp0Eto2xRqryL/edit).** |
-|🤖 [Llma Builder](https://github.com/AdesinaA/gen-ai/tree/main/LLMA-builder) | Sept 2024|Nodejs, Prisma, OpenAI GP3 & GP4 | Built an app builder with Open AI GP3 & GP4 with nodejs, togetherai & prisma.
+|🤖 [Llma Builder](https://github.com/AdesinaA/gen-ai/tree/main/LLMA-builder) | Sept 2024|Nodejs, Prisma, TogetherAI OpenAI GP3 & GP4 | Built an app builder with Open AI GP3 & GP4 with nodejs, togetherai & prisma.
 
 ***
 
