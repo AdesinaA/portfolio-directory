@@ -25,7 +25,7 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 |🏠 [Home Price Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/home%20price%20prediction)|Regression|Python, Pandas, Matplotlib, DecisonTree, Random Forest, Gradient Boost & Neural Networks| I built a prediction model to help hosts know the prices of homes inorder to make profit.|
 |🥇 [Promotion Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/Promotion%20Prediction)|Classification|Python, Pandas, Matplotlib & Catboost|I built a machine learning model to study the pattern of promotion on Abdullahi's company.|
 |💳 [Credit Card Prediction](https://github.com/AdesinaA/data-science-machine-learning/tree/main/Credit%20Card%20Default%20Loan%20Prediction) |Classification|Python, Pandas, Matplotlib, Catboost & Lightgbm|I built a machine learning model to determine whether a loan is good or bad.|
-|⛵ [Survival Prediction]() ||Python, Xgboost & Streamlit|I built a machine learning model to predict who survived an accident on a boat and hosted it on streamlit|
+|⛵ [Survival Prediction](https://github.com/AdesinaA/ML-Streamlit-Demo) ||Python, Xgboost & Streamlit|I built a machine learning model to predict who survived an accident on a boat and hosted it on streamlit|
 
 ***
 
