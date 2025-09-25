@@ -53,4 +53,6 @@ Welcome to my **DATA & SOFTWARE ENGINEERING (ML SYSTEMS)** portfolio! Here, I do
 | Project Link | Project Description | Tools |
 |---|---|---|
 |🏥 [Clinic Record Sofware](https://github.com/AdesinaA/clinic-record-software)|Built a clinic record software for IITA clinic| C#, SQL & WinForm|
+|🏥 [PDF Tools for compressing Splitting and Merging PDF files](https://github.com/AdesinaA/clinic-record-software)|built my own custom PDF Tools for compressing Splitting and Merging PDF files from scratch| C#, SQL, WPF & XAML|
+
 
